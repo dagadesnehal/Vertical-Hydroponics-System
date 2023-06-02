@@ -1,6 +1,6 @@
 # Vertical-Hydroponics-System #
 
-The Vertical Hydroponics System is an IoT based project which promotes to grow plants without using soil.
+The Vertical Hydroponics System is an IoT based project which helps to grow plants without using soil.
 Utilising nutritional solutions, plants are grown, and a mobile application is used to Monitor their progress.
 
 # Working #
